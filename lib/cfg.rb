@@ -1,6 +1,6 @@
 require 'yaml'
 
-class Fig  
+class Cfg
   def initialize(x)
     raise "First argument needs to be a string or a hash" unless [Hash, String].include? x.class
     if x.is_a? String
