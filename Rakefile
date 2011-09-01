@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "fig"
   gem.homepage = "http://github.com/wmeister86/fig"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Micro gem for wrapping yaml configs with an object}
+  gem.description = %Q{Micro gem for wrapping yaml configs with an object}
   gem.email = "wmeister86@gmail.com"
   gem.authors = ["Willaim Meister"]
   # dependencies defined in Gemfile

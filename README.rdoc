@@ -1,6 +1,6 @@
 = fig
 
-Description goes here.
+Micro gem for wrapping yaml configs with an object
 
 == Contributing to fig
  
