@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{fig}
+  s.name = %q{cfg}
   s.version = "0.2.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -24,12 +24,12 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
-    "fig.gemspec",
-    "lib/fig.rb",
+    "cfg.gemspec",
+    "lib/cfg.rb",
     "test/helper.rb",
-    "test/test_fig.rb"
+    "test/test_cfg.rb"
   ]
-  s.homepage = %q{http://github.com/wmeister86/fig}
+  s.homepage = %q{http://github.com/wmeister86/cfg}
   s.licenses = [%q{MIT}]
   s.require_paths = [%q{lib}]
   s.rubygems_version = %q{1.8.8}
